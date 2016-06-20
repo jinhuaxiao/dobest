@@ -6,10 +6,10 @@
     "type": "project",
     "require": {
         "php": ">=5.5.9",
-	    "Dobest/framework": "dev-master",
-        "guzzlehttp/guzzle": "6.2"
-	    "illuminate/database": "~5.0",
-	    "monolog/monolog": "*"
+        "Dobest/framework": "dev-master",
+        "guzzlehttp/guzzle": "6.2",
+        "illuminate/database": "~5.0",
+        "monolog/monolog": "*"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
